@@ -1,0 +1,28 @@
+[
+    {
+        "id": 1,
+        "title": "AI Seminar",
+        "description": "Future of Artificial Intelligence"
+    },
+    {
+        "title": "career fairs",
+        "description": "for future career improvement",
+        "id": 3
+    },
+    {
+        "id": 5,
+        "title": "Cultural Festival",
+        "description": "A celebration of diverse cultures with music, dance, and food stalls.",
+        "date": null
+    },
+    {
+        "id": 6,
+        "title": "Science Exhibition",
+        "description": "Showcase of student projects in physics, chemistry, and biology."
+    },
+    {
+        "id": 7,
+        "title": "Tech talk",
+        "description": "for improve student knowledge."
+    }
+]
